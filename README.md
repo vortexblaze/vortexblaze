@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vortexblaze
 - 👀 I’m interested in being tha laziest person in this world....... or not
-- 🌱 I’m currently learning Java, Python, and maybe swift.
+- 🌱 I’m currently learning C++ and Python.
 - 💞️ I’m looking to collaborate on embedded projects.
 - 📫 How to reach me? Just send me a email. >> impulsegundamms@gmail.com<<
 
